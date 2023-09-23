@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">i_am_rich_app_Android_Java</string>
+    <string name="actionBarTitle">I Am Rich</string>
 </resources>
